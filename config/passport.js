@@ -30,9 +30,6 @@ module.exports = function (passport) {
             user = await User.create(newUser)
             done(null, user)
           }
-          // user
-          //   ? done(null, user)
-          //   : (user = (await User.create(newUser)) && done(null, user));
         } catch (err) {
           console.log(err);
         }

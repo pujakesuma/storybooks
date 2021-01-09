@@ -23,5 +23,3 @@ npm start
 ## Authors
 
 * **Ahmad Ridwan** - *pujakesuma* - [pujakesuma](https://github.com/pujakesuma)
-
-See also this github [contributors](https://github.com/melankolia) who participated in this project.

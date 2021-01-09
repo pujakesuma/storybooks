@@ -5,7 +5,7 @@ This project aim to learn about build a Restful API using express with MongoDB f
 ## Built With
 Project is created with:
 
-[![js-standard-style](https://img.shields.io/badge/NodeJs-v.10.16-brightgreen)](https://nodejs.org/en/)
+[![js-standard-style](https://img.shields.io/badge/NodeJs-v.12.20-brightgreen)](https://nodejs.org/en/)
 
 ## How to setup
 Add your mongoDB URI and Google OAuth credentials to the .env file which is located at /config

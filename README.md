@@ -1,6 +1,8 @@
 # storybooks
+This project aim to learn about build a Restful API using express with MongoDB for simple story book. User can log in with Goggle Accout and create and edit it own Story and then shares with another user.
 
-Add your mongoDB URI and Google OAuth credentials to the .env file
+## How to setup
+Add your mongoDB URI and Google OAuth credentials to the .env file which is located at /config
 
 ## Install dependencies
 npm install
@@ -10,3 +12,10 @@ npm run dev
 
 ## Run in production
 npm start
+
+
+## Authors
+
+* **Ahmad Ridwan** - *pujakesuma* - [pujakesuma](https://github.com/pujakesuma)
+
+See also this github [contributors](https://github.com/melankolia) who participated in this project.
